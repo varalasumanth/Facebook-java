@@ -1,4 +1,4 @@
-#Adding two numbers using java program
+#Adding two numbers using java
 class Main {
 
   public static void main(String[] args) {
